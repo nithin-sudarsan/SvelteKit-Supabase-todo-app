@@ -39,7 +39,6 @@
 
     const deleteTodo = async (todo)=>{
         // console.table(todo)
-
         const { data, error } = await supabase
             .from('todos')
             .delete()
@@ -52,8 +51,6 @@
 
     const addTask = async ()=>{
         // console.table(todo)
-
-
         const { data, error } = await supabase
         .from('todos')
         .insert([

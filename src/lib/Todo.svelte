@@ -20,7 +20,6 @@
         display: flex;
         margin: 2em;
     }
-
     .done{
         opacity: 0.5;
     }
