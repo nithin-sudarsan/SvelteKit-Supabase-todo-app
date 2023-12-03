@@ -1,6 +1,6 @@
 # create-svelte
 
-## Refer [Notes](TodoList App Notes .md) for steps to be followed
+## Refer [Notes](https://github.com/nithin-sudarsan/SvelteKit-Supabase-todo-app/blob/main/TodoList%20App%20Notes%20.md) for steps to be followed
 
 Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte).
 
